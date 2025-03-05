@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
+  "This is an example prompt",
+  "This is another example prompt",
+  "This is yet another example prompt",
 ];
 
 export default function Chat() {
